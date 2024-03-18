@@ -7,8 +7,10 @@ This is the source for the _Enrichment Analysis workshop_2024 website.
 # Quickstart
 
 ```bash
-# get hugo
 
+git clone git@github.com:MonashBioinformaticsPlatform/enrichment_analysis_workshop_2024.git
+
+# get hugo
 brew install hugo
 
 #download the theme and crete the right path
@@ -18,6 +20,7 @@ mkdir themes
 cd themes
 git clone https://github.com/matcornic/hugo-theme-learn.git
 
+#remember to change URL in config.toml to direct to the right github page
 ```
 
 To update the site:
@@ -27,6 +30,9 @@ To update the site:
 * `git commit` your changes and `git push`.
 
 Deployment to the live site at [monashbioinformaticsplatform.github.io/enrichment_analysis_workshop_2024/](https://monashbioinformaticsplatform.github.io/enrichment_analysis_workshop_2024/) happens after running `./deploy.sh` script
+
+
+
 
 # Detail
 
