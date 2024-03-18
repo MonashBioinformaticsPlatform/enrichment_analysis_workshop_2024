@@ -1,19 +1,23 @@
 # Enrichment Analysis workshop base
+Updated on 2024
 
-This is the source for the _Enrichment Analysis workshop_ website.
+
+This is the source for the _Enrichment Analysis workshop_2024 website.
  
 # Quickstart
 
 ```bash
-git clone --recurse-submodules https://github.com/MonashBioinformaticsPlatform/enrichment_analysis_workshop
-cd enrichment_analysis_workshop
-# For hugo v0.55, currently used version
-brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/b1e187384baf6b50960ceed7d0964c151d14eada/Formula/hugo.rb
+# get hugo
 
-# brew install hugo
-# sudo apt-get install hugo
+brew install hugo
 
-hugo server
+#download the theme and crete the right path
+
+cd enrichment_analysis_workshop_2024
+mkdir themes
+cd themes
+git clone https://github.com/matcornic/hugo-theme-learn.git
+
 ```
 
 To update the site:
@@ -22,7 +26,7 @@ To update the site:
 * Check that the site builds and looks correct by locally running `hugo server`.
 * `git commit` your changes and `git push`.
 
-Deployment to the live site at [monashbioinformaticsplatform.github.io/enrichment_analysis_workshop/](https://monashbioinformaticsplatform.github.io/enrichment_analysis_workshop) happens after running `./deploy.sh` script
+Deployment to the live site at [monashbioinformaticsplatform.github.io/enrichment_analysis_workshop_2024/](https://monashbioinformaticsplatform.github.io/enrichment_analysis_workshop_2024/) happens after running `./deploy.sh` script
 
 # Detail
 

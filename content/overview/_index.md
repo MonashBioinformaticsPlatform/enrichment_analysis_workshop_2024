@@ -3,7 +3,8 @@ title: Overview
 weight: 1
 chapter: true
 ---
-## Functional analysis of -Omics data
+## Functional analysis of -Omics data 
+Workshop 2024
 
 ### General information
 
