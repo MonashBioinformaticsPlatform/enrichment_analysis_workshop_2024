@@ -1,4 +1,4 @@
-baseURL = "https://monashbioinformaticsplatform.github.io/enrichment_analysis_workshop/"
+baseURL = "https://monashbioinformaticsplatform.github.io/enrichment_analysis_workshop_2024/"
 languageCode = "en-us"
 title = "Functional Analysis"
 theme ="hugo-theme-learn"
