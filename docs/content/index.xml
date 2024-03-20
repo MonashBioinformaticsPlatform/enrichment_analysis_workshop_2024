@@ -44,13 +44,6 @@
       <description>Once we have done an enrichment analysis - how to communicate the results? Like everything - it depends what you need to say. Some examples are below.&#xA;In text If you just need to emphasise that the differential expression relates to a condition of interest, you don&amp;rsquo;t need much:&#xA;Genes differentially expressed after SH-SY5Y cell differentiation were enriched for GO term &amp;ldquo;regulation of neurogenesis&amp;rdquo;, adjusted pval &amp;lt; 0.01).&#xA;And in the methods:</description>
     </item>
     <item>
-      <title>Resources</title>
-      <link>https://monashbioinformaticsplatform.github.io/enrichment_analysis_workshop_2024/content/resources/</link>
-      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://monashbioinformaticsplatform.github.io/enrichment_analysis_workshop_2024/content/resources/</guid>
-      <description>Please find a link to today&amp;rsquo;s presentation slides here&#xA;The following tools might be useful for downstream functional analysis; this includes some not covered in todays workshop.&#xA;Note that most of these tools do more than just enrichment tests, and some include their own databases.&#xA;g:Profiler / g:GOSt https://biit.cs.ut.ee/gprofiler/gost&#xA;The g:GOSt &amp;lsquo;functional profiling&amp;rsquo; tool of g:Profiler calculates It has a clean modern interface and a handy summary of which genes contribute to the enrichment.</description>
-    </item>
-    <item>
       <title>End of Session Challenge</title>
       <link>https://monashbioinformaticsplatform.github.io/enrichment_analysis_workshop_2024/content/challenge/</link>
       <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
