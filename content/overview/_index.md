@@ -48,5 +48,5 @@ Time	|	Programme
 
 ### Post-workshop survey
 
-We appreciate your feedback (both positive and negative !) - please fill out the short post-workshop survey [Feedback Survey](https://forms.gle/puR6fg11TtHyk1oC6) in the last 5 mins.
+We appreciate your feedback (both positive and negative !) - please fill out the short post-workshop survey [Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSdmWreDIWjVsIR5g22jvcypH8ChFyMJ506HTAIoMIJYzjD-3Q/viewform) in the last 5 mins.
 

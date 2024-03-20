@@ -57,12 +57,5 @@
       <guid>https://monashbioinformaticsplatform.github.io/enrichment_analysis_workshop_2024/content/challenge/</guid>
       <description>Dr Dodge&amp;rsquo;s Experiment There&amp;rsquo;s quite a few ways you can calculate functional enrichment - so there&amp;rsquo;s always a risk of p-hacking, whether accidental or deliberate.&#xA;So lets go deliberate&amp;hellip;&#xA;Dr Dodge is convinced that your experiment should turn out with relevance to GO term &amp;lsquo;segmentation&amp;rsquo; - but p=0.06! But they must be significant, the paper needs be submitted by Friday!&#xA;What hacky and statistically questionable approaches could you apply to call these results &amp;ldquo;significant&amp;rdquo;?</description>
     </item>
-    <item>
-      <title>Feedback</title>
-      <link>https://monashbioinformaticsplatform.github.io/enrichment_analysis_workshop_2024/content/end/</link>
-      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://monashbioinformaticsplatform.github.io/enrichment_analysis_workshop_2024/content/end/</guid>
-      <description>We appreciate your feedback (both positive and negative !) - please fill out the short post-workshop survey Feedback Survey</description>
-    </item>
   </channel>
 </rss>
